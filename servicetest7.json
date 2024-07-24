@@ -24,7 +24,7 @@
                 }
             ]
         ],
-        "operator": "OR"
+        "operator": "AND"
     },
     "webflowInterruptPolicy" : {
     "@class" : "org.apereo.cas.services.DefaultRegisteredServiceWebflowInterruptPolicy",
