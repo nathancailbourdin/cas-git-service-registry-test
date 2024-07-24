@@ -9,5 +9,9 @@
         "startingDateTime" : "2024-07-23T09:52:00.132+02:00",
         "endingDateTime" : "2024-07-23T10:05:00.132+02:00",
         "zoneId" : "UTC+2"
+    },
+    "webflowInterruptPolicy" : {
+    "@class" : "org.apereo.cas.services.DefaultRegisteredServiceWebflowInterruptPolicy",
+    "enabled": false
     }
 }

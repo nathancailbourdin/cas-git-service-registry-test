@@ -7,5 +7,9 @@
     "requiredAttributes" : {
         "@class" : "java.util.HashMap",
         "ENTPersonLogin" : [ "java.util.HashSet", [ "test1" ] ]
+    },
+    "webflowInterruptPolicy" : {
+    "@class" : "org.apereo.cas.services.DefaultRegisteredServiceWebflowInterruptPolicy",
+    "enabled": false
     }
 }
