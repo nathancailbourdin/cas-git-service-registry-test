@@ -1,6 +1,6 @@
 {
     "@class": "org.apereo.cas.services.CasRegisteredService",
-    "serviceId": "^http:\/\/localhost:8004\/.*",
+    "serviceId": "^http:\/\/localhost:8003\/.*",
     "name": "Service Test",
     "description": "Service de test pour TimeBasedRegisteredServiceAccessStrategy valide",
     "id": 3,
