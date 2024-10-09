@@ -6,6 +6,7 @@
   "name": "Service Test",
   "description": "Service de test pour OIDC",
   "id": 18,
+  "bypassApprovalPrompt": true,
   "webflowInterruptPolicy": {
       "@class": "org.apereo.cas.services.DefaultRegisteredServiceWebflowInterruptPolicy",
       "enabled": false
