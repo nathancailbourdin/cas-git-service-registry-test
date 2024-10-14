@@ -8,5 +8,6 @@
   "webflowInterruptPolicy": {
       "@class": "org.apereo.cas.services.DefaultRegisteredServiceWebflowInterruptPolicy",
       "enabled": false
-  }
+  },
+  "logoutUrl" : "http://localhost:8019/logout"
 }
